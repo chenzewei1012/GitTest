@@ -1,3 +1,0 @@
-Git
-contains
-stage and master
